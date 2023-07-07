@@ -1,0 +1,29 @@
+#gameContainer{
+
+    text-align: center;
+    height: 100vh;
+}
+
+#gameBoard{
+    border: 3px solid;
+    background-color: aliceblue;
+    
+}
+#contentContainer {
+    text-align: center;
+}
+#score{
+    font-family: "Permanent Market",  cursive;
+    font-size: 100px;
+}
+
+#resetBtn{
+font-family: "Permanent Marker", cursive;
+font-size: 22px;
+width: 100px;
+height: 50px;
+border: 4px solid;
+border-radius: 15px;
+cursor: pointer
+}
+
